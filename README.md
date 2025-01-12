@@ -1,1 +1,3 @@
-Módulo de localización venezolana para la división político territorial
+# l10n-ve-dpt
+
+Localización venezolana: División Político Territorial.
